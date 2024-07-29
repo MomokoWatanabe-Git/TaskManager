@@ -33,3 +33,4 @@ C:\Users\m.watanabe\TaskManager\obj\Debug\net8.0\TaskMana.F3FB485A.Up2Date
 C:\Users\m.watanabe\TaskManager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\m.watanabe\TaskManager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\m.watanabe\TaskManager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\m.watanabe\TaskManager\obj\Debug\net8.0\TaskManager.sourcelink.json
