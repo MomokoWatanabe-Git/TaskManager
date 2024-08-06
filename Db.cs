@@ -1,9 +1,16 @@
+//データアクセス層
+
 namespace TaskManager.DB;
 public record Task
 {
     public int Id {get; set;}
     public string ? Name {get; set;} = string.Empty;
     public bool IsCompleted {get; set;}
+
+    internal object OrderBy(Func<object, object> value)
+    {
+        throw new NotImplementedException();
+    }
 }
 
 public class TaskDB
